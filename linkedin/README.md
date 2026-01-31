@@ -1,0 +1,1 @@
+3° projeto: Pratiquei mais e fiz algumas melhorias na forma de detalhar casos de teste. Adicionei mais bugs para reportar e aprimorar minha capacidade de criar relatórios informando bugs report, e também fiz os test report para manter tudo de forma mais organizada, o que no ambiente de trabalho é extremamente necessário
