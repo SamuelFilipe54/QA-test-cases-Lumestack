@@ -1,1 +1,1 @@
-4° projeto Lumestack. Aqui eu resolvi misturar um pouco da documentação na planilha com o Jira para começar a pegar o costume.
+4° projeto Lumestack. Aqui eu resolvi misturar um pouco da documentação na planilha com o Jira para começar a pegar o costume. Também simulei que os testes ainda estavam em andamento, por isso não tem muitos testes e test report ainda.
