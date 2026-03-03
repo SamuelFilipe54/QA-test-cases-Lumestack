@@ -3,4 +3,4 @@ Este projeto possui quatro exercícios de criação de cenários de teste, feito
 
 Com minha prática, fui acrescentando bug reports e também test reports no exercício da Amazon e Linkedin.
 
-Por fim, no exercício da Magazine Luiza, resolvi utilizar da ferramenta Jira para movimentar os boards e entender a diferença de stories e tasks.
+Por fim, no exercício da Magazine Luiza, resolvi utilizar da ferramenta Jira para movimentar os boards e entender a diferença de stories e tasks e fazer rastreamento de bug report.
